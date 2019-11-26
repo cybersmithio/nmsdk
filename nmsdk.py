@@ -2,13 +2,10 @@
 #
 # THIS IS NOT SUPPORTED BY ANYONE.
 #
-#
-# Requires the following:
 
 import argparse
 import os
 import json
-import csv
 import sys
 import time
 import requests
