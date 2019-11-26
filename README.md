@@ -35,7 +35,7 @@ python3 transfer.py --username $NMUSER --password $NMPASS \
 ```
 
 # Internals
-The transfer.py script uses a module called nmsdk, which has various methods used to get the data from NM.
+The script uses a module called nmsdk, which has various methods used to get the data from NM.
 The general workflow is:
 
 * Create a NM connector object: 
