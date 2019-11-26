@@ -34,7 +34,7 @@ python3 transfer.py --username $NMUSER --password $NMPASS \
   --tsc_host $SCHOST --tsc_port $SCPORT --import_repo $SCREPO
 ```
 
-#Internals
+# Internals
 The transfer.py script uses a module called nmsdk, which has various methods used to get the data from NM.
 The general workflow is:
 
